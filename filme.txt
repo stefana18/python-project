@@ -1,0 +1,6 @@
+2,Lumina infernului,Horror,Horror,0
+1,Scream,Horror,Horror,1
+3,Endgame,SF,SF,0
+4,Greu de ucis,Actiune,Actiune,0
+5,Fast and furious,Actiune,Actiune,0
+6,Ice Age,Animatie,Animatie,0
